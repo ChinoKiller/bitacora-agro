@@ -10,7 +10,7 @@ tags:
 - frontend
 - trend
 - "dicarapida"
-image: "/assets/img/por-que-usar-svg/coloridos.jpg"
+image: "/assets/img/por-que-usar-svg/coloridos.png"
 categories:
 - "O mundo mágico do SVG"
 twitter_text: "Por que você deveria estar usando SVG?"
@@ -33,7 +33,7 @@ Bom, pretendo fazer desse post, uma série sobre SVG, então serei bastante brev
 
 ### Rico em Detalhes e Cores
 
-![Coração feito de ícones coloridos](/assets/img/por-que-usar-svg/coloridos.jpg)
+![Coração feito de ícones coloridos](/assets/img/por-que-usar-svg/coloridos.png)
 
 Fonte: [Designmodo](http://designmodo.com/flat/)
 

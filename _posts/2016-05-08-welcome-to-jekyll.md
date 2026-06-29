@@ -5,7 +5,7 @@ date: 2016-05-08 20:34:26
 image: '/assets/img/'
 description: 'Put your description here.'
 main-class: 'jekyll'
-color: '#B31917'
+color: '#000000'
 tags:
 - jekyll
 categories:
