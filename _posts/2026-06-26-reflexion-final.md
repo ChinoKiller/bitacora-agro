@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reflexión Final - Comprendiendo la realidad agroalimentaria más allá de las aulas"
+title: "Reflexión Final - Comprendiendo la realidad agroalimentaria"
 date: 2026-06-26 18:00:00
 description: "Reflexión final sobre los aprendizajes obtenidos durante el Seminario de Realidad Nacional II."
 main-class: 'reflexion'

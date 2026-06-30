@@ -796,6 +796,7 @@ main {
   margin: 0 .938rem 3.125rem;
   display: inline-block;
   border: 1px solid #1F2610;
+  background: linear-gradient(45deg, #f2ffc3 0%, #b9eba1 100%);
   border-radius: 5px;
   min-height: 17.813rem;
   transition: all .3s;
@@ -913,7 +914,7 @@ main {
 .post {
   position: relative;
   top: 31.25rem;
-  background: #fff;
+  background: #edffc5;
 }
 
 .post-content {
@@ -1376,7 +1377,7 @@ pre span {
 }
 
 .author {
-  background: #f2f2f2;
+  background: #e2ffa4;
   display: table;
   width: 100%;
   padding: 2.5rem 0;
