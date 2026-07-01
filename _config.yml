@@ -1,6 +1,6 @@
 # Site settings
 title: Kevin Ramirez - Bitacora Agro
-description: A blog about lorem ipsum dolor sit amet
+description: Una bitácora de aprendizaje de Kevin Ramirez, para el curso Seminario de Realidad Nacional II.
 baseurl: "/bitacora-agro" # the subpath of your site, e.g. /blog
 url: "https://chinokiller.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -8,10 +8,8 @@ url: "https://chinokiller.github.io/" # the base hostname & protocol for your si
 username: Kevin Ramirez
 user_description: Kevin Ramirez, estudiante de Ciencias de la Computacion e Informatica.
 email: kevin.ramirezbarboza@ucr.ac.cr
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+telegram_username: ChinoRB14
+
 
 # Build settings
 markdown: kramdown
