@@ -20,19 +20,19 @@ introduction: "La producción pecuaria enfrenta importantes desafíos ambientale
 
 ## 3 de junio de 2026
 
-![Ganadería sostenible](/assets/img/2026-06-03-ganaderia/imagen1.jpg)
+![Ganadería sostenible]({{ site.baseurl }}/assets/img/2026-06-03-ganaderia/imagen1.jpg)
 
 Esta exposición permitió comprender que la producción pecuaria no necesariamente debe verse como una actividad perjudicial para el ambiente. Existen prácticas que permiten reducir significativamente las emisiones de gases de efecto invernadero sin afectar la productividad de las fincas.
 
 Entre las estrategias presentadas destacaron la mejora en la alimentación del ganado para disminuir la producción de metano, el almacenamiento adecuado del estiércol y la implementación de sistemas silvopastoriles, donde árboles, pastos y animales conviven dentro de un mismo sistema productivo. Estas prácticas muestran que es posible aumentar la eficiencia mientras se protege el ambiente.
 
-![Sistema silvopastoril](/assets/img/2026-06-03-ganaderia/imagen2.jpg)
+![Sistema silvopastoril]({{ site.baseurl }}/assets/img/2026-06-03-ganaderia/imagen2.jpg)
 
 También me llamó la atención conocer ejemplos reales de productores que utilizan cercas vivas, abonos orgánicos, captación de agua de lluvia y un manejo más eficiente del recurso hídrico. Estas acciones demuestran que la sostenibilidad puede aplicarse mediante cambios concretos dentro de las fincas.
 
 Uno de los aspectos que generó mayor reflexión fue conocer que algunos productores han recibido mayor apoyo de empresas privadas que de instituciones públicas para implementar estas iniciativas. Esto evidencia que todavía existen desafíos importantes para ampliar el acceso a este tipo de tecnologías.
 
-![Producción lechera sostenible](/assets/img/2026-06-03-ganaderia/imagen3.jpg)
+![Producción lechera sostenible]({{ site.baseurl }}/assets/img/2026-06-03-ganaderia/imagen3.jpg)
 
 ## Reflexión
 

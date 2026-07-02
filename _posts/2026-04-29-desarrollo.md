@@ -18,13 +18,13 @@ introduction: "Esta clase permitió replantear el concepto tradicional de desarr
 
 ## 29 de abril de 2026
 
-![Paisaje rural sostenible](/assets/img/2026-04-29/imagen1.jpg)
+![Paisaje rural sostenible]({{ site.baseurl }}/assets/img/2026-04-29/imagen1.jpg)
 
 Uno de los aspectos que más llamó mi atención fue descubrir cómo ha cambiado el concepto de desarrollo con el paso del tiempo. Antes se evaluaba principalmente mediante indicadores económicos como el Producto Interno Bruto (PIB), dando la impresión de que un país era más desarrollado únicamente porque producía más riqueza.
 
 Durante la clase comprendí que esa visión resultaba incompleta. Actualmente el desarrollo también incorpora aspectos sociales como la reducción de la pobreza, la equidad y la calidad de vida, además de la protección del ambiente. Esta evolución dio origen al concepto de **desarrollo sostenible**, donde el crecimiento económico debe convivir con la conservación de los recursos naturales.
 
-![Equilibrio entre economía y ambiente](/assets/img/2026-04-29/imagen2.jpg)
+![Equilibrio entre economía y ambiente]({{ site.baseurl }}/assets/img/2026-04-29/imagen2.jpg)
 
 Otro aprendizaje importante fue conocer las distintas formas de entender la sostenibilidad. La sostenibilidad débil plantea que el desarrollo económico puede justificar cierto sacrificio ambiental, mientras que la sostenibilidad fuerte considera que los ecosistemas poseen un valor que no puede ser reemplazado por el crecimiento económico.
 
@@ -32,7 +32,7 @@ Esta comparación me hizo reflexionar sobre el difícil equilibrio que enfrentan
 
 Finalmente conocí el concepto de **desarrollo rural territorial**, el cual resalta que las comunidades deben participar activamente en las decisiones relacionadas con su propio desarrollo. Esto demuestra que las soluciones no pueden imponerse desde afuera, sino construirse junto con quienes viven diariamente esa realidad.
 
-![Comunidades rurales participando](/assets/img/2026-04-29/imagen3.jpg)
+![Comunidades rurales participando]({{ site.baseurl }}/assets/img/2026-04-29/imagen3.jpg)
 
 ## Reflexión
 

@@ -19,19 +19,19 @@ introduction: "Esta sesión me permitió analizar la importancia de la universid
 
 ## 20 de mayo de 2026
 
-![Campus universitario](/assets/img/2026-05-20/imagen1.jpg)
+![Campus universitario]({{ site.baseurl }}/assets/img/2026-05-20/imagen1.jpg)
 
 En esta sesión reflexionamos sobre el papel que desempeñan las universidades públicas en Costa Rica y el significado del **Fondo Especial para la Educación Superior (FEES)**. Más que estudiar su definición, la discusión buscó que analizáramos cuál ha sido el impacto que una universidad pública tiene en nuestra propia formación como estudiantes y ciudadanos.
 
 Uno de los aspectos que más me llamó la atención fue comprender que la universidad no solamente transmite conocimientos técnicos para ejercer una profesión. También busca formar personas capaces de analizar la realidad, cuestionar la información que reciben y construir criterios propios sobre los problemas del país.
 
-![Estudiantes participando en una discusión](/assets/img/2026-05-20/imagen2.jpg)
+![Estudiantes participando en una discusión]({{ site.baseurl }}/assets/img/2026-05-20/imagen2.jpg)
 
 Como parte de la clase analizamos dos artículos de opinión relacionados. Esta actividad permitió observar cómo un mismo tema puede ser abordado desde perspectivas distintas y reforzó la importancia de desarrollar pensamiento crítico antes de aceptar una postura como verdadera.
 
 También aprendí que actualmente el FEES se negocia de forma anual, cuando anteriormente estas negociaciones se realizaban cada cinco años. Este cambio evidencia que el financiamiento de la educación superior pública es un tema que permanece constantemente en la discusión nacional y que tiene implicaciones tanto para las universidades como para la sociedad costarricense.
 
-![Biblioteca universitaria](/assets/img/2026-05-20/imagen3.jpg)
+![Biblioteca universitaria]({{ site.baseurl }}/assets/img/2026-05-20/imagen3.jpg)
 
 ## Reflexión
 

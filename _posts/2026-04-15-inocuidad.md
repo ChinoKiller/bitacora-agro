@@ -19,19 +19,19 @@ introduction: "La inocuidad alimentaria depende del compromiso de todos los acto
 
 ## 15 de abril de 2026
 
-![Cadena de producción de alimentos](/assets/img/2026-04-15/imagen1.jpg)
+![Cadena de producción de alimentos]({{ site.baseurl }}/assets/img/2026-04-15/imagen1.webp)
 
 Uno de los aprendizajes más importantes de esta clase fue comprender el verdadero significado de la **inocuidad alimentaria**. Antes pensaba que se relacionaba únicamente con la higiene de los alimentos, pero aprendí que un alimento es inocuo cuando su consumo no representa un riesgo para la salud de las personas.
 
 La clase mostró que la inocuidad comienza mucho antes de que el alimento llegue a la mesa. Todo el proceso, desde la producción en la finca, el transporte, el almacenamiento y la preparación, influye directamente en la seguridad del consumidor.
 
-![Manipulación segura de alimentos](/assets/img/2026-04-15/imagen2.jpg)
+![Manipulación segura de alimentos]({{ site.baseurl }}/assets/img/2026-04-15/imagen2.png)
 
 Otro aspecto que me llamó la atención fue comprender que la responsabilidad no recae sobre un solo actor. Productores, empresas, trabajadores, consumidores y el Estado cumplen funciones complementarias para garantizar que los alimentos mantengan condiciones adecuadas durante toda la cadena de suministro.
 
 Esto me hizo reflexionar sobre la cantidad de procesos que normalmente pasan desapercibidos cuando compramos un producto en un supermercado o consumimos alimentos en un restaurante. Detrás de cada alimento existe una red de personas cuyo trabajo tiene un impacto directo sobre la salud pública.
 
-![Control de calidad en alimentos](/assets/img/2026-04-15/imagen3.jpg)
+![Control de calidad en alimentos]({{ site.baseurl }}/assets/img/2026-04-15/imagen3.avif)
 
 ## Reflexión
 
