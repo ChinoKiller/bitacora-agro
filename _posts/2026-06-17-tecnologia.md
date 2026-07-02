@@ -20,7 +20,7 @@ introduction: "Los avances tecnológicos permiten tomar decisiones más precisas
 
 ## 17 de junio de 2026
 
-![Drone sobre cultivo](/assets/img/2026-06-17-tecnologia/imagen1.avif)
+![Drone sobre cultivo]({{ site.baseurl }}/assets/img/2026-06-17-tecnologia/imagen1.avif)
 
 Como estudiante de computacion, esta fue una de las exposiciones que más despertó mi interés. La agricultura de precisión demuestra que la tecnología puede convertirse en una herramienta fundamental para mejorar la productividad y utilizar los recursos de manera más eficiente.
 
