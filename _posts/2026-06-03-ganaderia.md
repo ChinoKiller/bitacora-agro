@@ -20,7 +20,7 @@ introduction: "La producción pecuaria enfrenta importantes desafíos ambientale
 
 ## 3 de junio de 2026
 
-![Ganadería sostenible]({{ site.baseurl }}/assets/img/2026-06-03-ganaderia/imagen1.jpg)
+![Ganadería sostenible]({{ site.baseurl }}/assets/img/2026-06-03-ganaderia/imagen1.webp)
 
 Esta exposición permitió comprender que la producción pecuaria no necesariamente debe verse como una actividad perjudicial para el ambiente. Existen prácticas que permiten reducir significativamente las emisiones de gases de efecto invernadero sin afectar la productividad de las fincas.
 

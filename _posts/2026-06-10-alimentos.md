@@ -20,7 +20,7 @@ introduction: "El crecimiento de la población y el cambio climático obligan a 
 
 ## 10 de junio de 2026
 
-![Cultivos del futuro]({{ site.baseurl }}/assets/img/2026-06-10-alimentos/imagen1.jpg)
+![Cultivos del futuro]({{ site.baseurl }}/assets/img/2026-06-10-alimentos/imagen1.png)
 
 La exposición abordó uno de los retos más importantes que enfrentará la humanidad durante las próximas décadas: producir suficientes alimentos en un contexto donde el cambio climático afecta directamente a la agricultura y la pesca.
 
@@ -32,7 +32,7 @@ También aprendí sobre el potencial de las microalgas, como la espirulina y la 
 
 Sin embargo, la exposición también mostró que la innovación enfrenta barreras importantes. El rechazo cultural hacia ciertos alimentos y los desafíos regulatorios pueden dificultar la incorporación de estas alternativas dentro de la dieta de muchas personas, incluso cuando presentan beneficios ambientales y nutricionales.
 
-![Producción sostenible de alimentos]({{ site.baseurl }}/assets/img/2026-06-10-alimentos/imagen3.jpg)
+![Producción sostenible de alimentos]({{ site.baseurl }}/assets/img/2026-06-10-alimentos/imagen3.jpeg)
 
 ## Reflexión
 

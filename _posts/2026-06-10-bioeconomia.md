@@ -20,7 +20,7 @@ introduction: "La bioeconomía propone transformar residuos y recursos biológic
 
 ## 10 de junio de 2026
 
-![Economía circular]({{ site.baseurl }}/assets/img/2026-06-10-bioeconomia/imagen1.jpg)
+![Economía circular]({{ site.baseurl }}/assets/img/2026-06-10-bioeconomia/imagen1.png)
 
 Antes de esta exposición conocía muy poco sobre el concepto de bioeconomía. Durante la presentación comprendí que se trata de una estrategia que busca aprovechar los recursos biológicos y los residuos para generar nuevos productos, tecnologías y procesos más sostenibles.
 

@@ -20,7 +20,7 @@ introduction: "Más que aprender conceptos, este seminario me permitió comprend
 
 ## Reflexión Final
 
-![Paisaje agrícola de Costa Rica]({{ site.baseurl }}/assets/img/reflexion-final/imagen1.jpg)
+![Paisaje agrícola de Costa Rica]({{ site.baseurl }}/assets/img/reflexion-final/imagen1.jfif)
 
 Al iniciar este seminario tenía una percepción bastante limitada del sector agroalimentario. Pensaba principalmente en la agricultura como la actividad encargada de producir alimentos y abastecer los mercados. Sin embargo, a lo largo de las diferentes clases comprendí que detrás de cada producto existe una red de personas, instituciones, empresas, investigaciones y decisiones que hacen posible que los alimentos lleguen hasta nuestra mesa.
 
@@ -34,7 +34,7 @@ Uno de los aspectos que más me llamó la atención fue descubrir que la sosteni
 
 Otro aprendizaje importante fue reconocer el papel que desempeñan las personas dentro del desarrollo rural. Las exposiciones sobre la mujer emprendedora y sobre la participación de las mujeres en la agricultura mostraron que el crecimiento de una comunidad depende tanto de sus recursos como del liderazgo, la perseverancia y el compromiso de quienes impulsan sus proyectos. Detrás de cada emprendimiento exitoso existe una historia de esfuerzo, adaptación y trabajo constante que muchas veces pasa desapercibida.
 
-![Innovación y desarrollo rural]({{ site.baseurl }}/assets/img/reflexion-final/imagen3.jpg)
+![Innovación y desarrollo rural]({{ site.baseurl }}/assets/img/reflexion-final/imagen3.webp)
 
 Como estudiante de Ingeniería en Software, encontré especialmente interesantes las exposiciones relacionadas con la innovación y la tecnología. Conocer herramientas como la agricultura de precisión, los drones, los sensores, la inteligencia artificial y las diferentes aplicaciones de la biotecnología me permitió comprender que la informática y el sector agroalimentario no son mundos separados. Por el contrario, la tecnología se ha convertido en una aliada fundamental para optimizar procesos, mejorar la toma de decisiones y enfrentar los desafíos ambientales que afectan la producción agrícola.
 

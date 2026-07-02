@@ -26,13 +26,13 @@ La última exposición del seminario abordó el papel que desempeña la biotecno
 
 La biotecnología también incluye el desarrollo de semillas más resistentes, la producción de biopesticidas y diferentes investigaciones orientadas a mejorar la productividad agrícola reduciendo el uso de agroquímicos. Estas herramientas permiten enfrentar problemas como las plagas, las enfermedades y las condiciones climáticas adversas.
 
-![Investigación agrícola]({{ site.baseurl }}/assets/img/2026-06-17-biotecnologia/imagen2.jpg)
+![Investigación agrícola]({{ site.baseurl }}/assets/img/2026-06-17-biotecnologia/imagen2.avif)
 
 Otro aspecto interesante fue conocer el trabajo que realizan instituciones costarricenses como la Universidad de Costa Rica y el Tecnológico de Costa Rica mediante sus centros de investigación. Esto demuestra que el país cuenta con capacidad científica para desarrollar soluciones adaptadas a las necesidades del sector agroalimentario.
 
 La exposición también presentó algunos desafíos relacionados con la implementación de estas tecnologías. Entre ellos destacan el acceso limitado para pequeños productores, las brechas tecnológicas, la necesidad de mayor capacitación y los retos asociados a la bioseguridad.
 
-![Cultivos desarrollados mediante investigación]({{ site.baseurl }}/assets/img/2026-06-17-biotecnologia/imagen3.jpg)
+![Cultivos desarrollados mediante investigación]({{ site.baseurl }}/assets/img/2026-06-17-biotecnologia/imagen3.webp)
 
 ## Reflexión
 
